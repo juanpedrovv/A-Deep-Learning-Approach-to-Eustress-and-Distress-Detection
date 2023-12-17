@@ -1,4 +1,4 @@
-# A-Deep-Learning-Approach-to-Eustress-and-Distress-Detection
+# A Deep Learning Approach to Eustress and Distress Detection
 
 Este estudio se centra en desarrollar un modelo de detección de estrés en el habla mediante
 técnicas de Deep Learning, especı́ficamente utilizando Redes Neuronales Convolucionales (CNN).
